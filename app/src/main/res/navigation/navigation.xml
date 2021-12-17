@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/workoutFragment">
+    <fragment
+        android:id="@+id/workoutFragment"
+        android:name="com.example.tyro.WorkoutFragment"
+        android:label="WorkoutFragment"
+        tools:layout="@layout/fragment_workout">
+        <action
+            android:id="@+id/action_workoutFragment_to_filter"
+            app:destination="@id/filter" />
+    </fragment>
+    <fragment
+        android:id="@+id/filter"
+        android:name="com.example.tyro.filter"
+        android:label="fragment_filter"
+        tools:layout="@layout/fragment_filter" >
+        <action
+            android:id="@+id/action_filter_to_workoutFragment"
+            app:destination="@id/workoutFragment" />
+    </fragment>
+</navigation>

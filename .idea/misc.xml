@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/drawable/girl.xml" value="0.36354166666666665" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/drawable/layout_border.xml" value="0.36354166666666665" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/action_bar.xml" value="0.4" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/exposeddropdown.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/fragment_filter.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/fragment_workout.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/item_layout.xml" value="0.3436754176610978" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/item_layout_workout.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/spinner_difficulty.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/spinner_difficulty_close.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/spinner_trainer.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/layout/spinner_trainer_close.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Mehul/Desktop/Android Studio Projects/Tyro_fit_intern/app/src/main/res/xml/network_security_config.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
